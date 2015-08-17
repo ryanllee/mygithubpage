@@ -56,13 +56,6 @@ h3 {
 	border-bottom:1px solid #efece7;
 }
 
-#box {
-	background:#f7f7f7;
-	border:1px solid #f0e9eb;
-  text-align: center;
-	padding:30px;
-}
-
 img{
     max-width:100%;
     display: block;
@@ -70,7 +63,6 @@ img{
     margin-left: auto;
     margin-right: auto;
 }
-
 
 #nav{
     border:1px solid #ccc;
@@ -82,7 +74,7 @@ img{
     height:30px;  
     position: relative;
     background-color:#900;  
-    width: 100%
+    width: 90%
     font-family:Arial;  
     font-size:0.9em;  
 }
@@ -116,4 +108,18 @@ img{
 	text-decoration:underline;
   background-color: #FFF;
 	color: #1875b6;
+}
+
+#links ul{
+    height: auto;
+    padding: 0px 0px;
+    margin: 0px;
+}
+
+#links li{
+    display:inline;    
+    padding: 0px;
+    float:center;  
+    height:30px;  
+    line-height:30px;
 }
