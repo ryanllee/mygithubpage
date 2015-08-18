@@ -2,6 +2,12 @@
 
 /* Layout */
 
+
+  .main.style2 {
+    background: #1882b6;
+  }
+
+
 head {
   font-family: 'Tangerine', serif;
   font-size: 100px;
@@ -81,7 +87,7 @@ img{
     height:30px;  
     position: relative;
     background-color:#900;  
-    width: 90%
+    width: 100%
     font-family:Arial;  
     font-size:0.9em;  
 }
