@@ -22,14 +22,14 @@ body {
 /* Global Styling */
 
 a:visited, a:link {
-	color:#a43b55;
+	color: white;
 	text-decoration:underline;
 	background:none;
 }
 
 a:hover {
-	color:#a43b55;
-	text-decoration:none;
+	color:white;
+	/*text-decoration:none;*/
 	background:none;
 }
 
@@ -53,10 +53,10 @@ h2 {
 }
 
 h3 {
-	color:#7a2e40;
+	color: white;
 	margin:10px 0;
 	padding-bottom:15px;
-	font:bold 14px Arial, Helvetica, sans-serif;
+	font:bold 19px Arial, Helvetica, sans-serif;
 	border-bottom:1px solid #efece7;
 }
 
