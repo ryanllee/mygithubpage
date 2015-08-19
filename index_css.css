@@ -74,6 +74,7 @@ img{
 
 #nav{
     border:1px solid #ccc;
+    white-space: nowrap;
     border-width:1px 0;
     text-align:center;
     list-style-type:none;  
