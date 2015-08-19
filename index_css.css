@@ -1,5 +1,3 @@
-
-
 head {
   font-family: 'Tangerine', serif;
   font-size: 90px;
@@ -19,7 +17,6 @@ body {
     background-color: #1882b6;
 }
 
-/* Global Styling */
 
 a:visited, a:link {
 	color: white;
@@ -122,11 +119,6 @@ img{
 	color: #1875b6;
 }
 
-ul {
-overflow-x:hidden;
-white-space:nowrap; 
-}
-
 #links {
   float: left;
   top: -10px;
@@ -146,15 +138,7 @@ white-space:nowrap;
   display:inline-block;
 } 
 
-
-/*
-.three {
+.image {
   display: inline;
+  width: 180%;
 }
-*/
-    .image {
-      display: inline;
-/*      margin-top: -600px
-      margin-left: -550px;*/
-      width: 180%;
-    }
