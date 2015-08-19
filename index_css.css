@@ -121,19 +121,19 @@ img{
 
 #links {
   float: left;
-  margin: 80px;
+  /*margin: 80px;*/
   display:inline-block;
 }
 
 #links1 {
   float: center;
-  margin: 80px;
+  /*margin: 80px;*/
   display:inline-block;
 }  
 
 #links2 {
   float: right;
-  margin: 80px;
+  /*margin: 80px;*/
   display:inline-block;
 } 
 
