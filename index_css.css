@@ -129,6 +129,7 @@ white-space:nowrap;
 
 #links {
   float: left;
+  top: -10px;
   margin: 80px;
   display:inline-block;
 }
