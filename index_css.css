@@ -80,9 +80,9 @@ img{
     border-width:1px 0;
     text-align:center;
     list-style-type:none;  
-    margin:0px auto;  
+    margin:-30px auto;  
     padding:0;  
-    height:30px;  
+    height:36px;  
     position: relative;
     background-color:#900;  
     width: 100%
@@ -92,7 +92,7 @@ img{
 
 #nav ul{
     height: auto;
-    padding: 0px -2px;
+    padding: 0px 0px;
     margin: 0px;
 }
 
@@ -117,6 +117,7 @@ img{
 
 #nav a:hover {
 	text-decoration:underline;
+  padding-top: 7px; 
   background-color: #FFF;
 	color: #1875b6;
 }
