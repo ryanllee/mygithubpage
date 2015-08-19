@@ -2,7 +2,7 @@
 
 head {
   font-family: 'Tangerine', serif;
-  font-size: 100px;
+  font-size: 90px;
   text-shadow: 4px 4px 4px #aaa;
 }
 
@@ -48,7 +48,7 @@ h2 {
   color: white;
 	margin:20px 0 10px;
 	padding-bottom:10px;
-	font:normal 35px Georgia, serif;
+	font:normal 30px Georgia, serif;
 	border-bottom:1px solid #efece7;
 }
 
