@@ -121,18 +121,23 @@ img{
 
 #links {
   float: left;
+  margin-left: 90px;
+  margin-bottom: 50px;
   /*margin: 80px;*/
   display:inline-block;
 }
 
 #links1 {
   float: center;
+  margin-bottom: 50px;
   /*margin: 80px;*/
   display:inline-block;
 }  
 
 #links2 {
   float: right;
+  margin-right: 90px;
+  margin-bottom: 50px;
   /*margin: 80px;*/
   display:inline-block;
 } 
