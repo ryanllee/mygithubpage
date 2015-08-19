@@ -1,13 +1,5 @@
 
 
-/* Layout */
-
-
-  .main.style2 {
-    background: #1882b6;
-  }
-
-
 head {
   font-family: 'Tangerine', serif;
   font-size: 100px;
@@ -15,12 +7,16 @@ head {
 }
 
 body {
-  font:normal 12px/1.6em Arial, Helvetica, sans-serif;
-	color:#2a3845;
+  font:normal 24px/1.6em Arial, Helvetica, sans-serif;
+	/*color:#2a3845;*/
+  color: white;
 	margin:0;
 	padding:0;
   text-align: center;
-	background:#FFFFFF;
+/*	background:#FFFFFF;
+  body {*/
+    /*background-image: url("images/grad.jpg");*/
+    background-color: #1882b6;
 }
 
 /* Global Styling */
@@ -95,7 +91,7 @@ img{
 #nav ul{
     height: auto;
     padding: 0px -2px;
-    margin: 0px;
+    margin: -6.4px;
 }
 
 #nav li{
