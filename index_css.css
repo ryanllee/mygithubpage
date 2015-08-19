@@ -121,6 +121,28 @@ img{
   background-color: #FFF;
 	color: #1875b6;
 }
+
+ul {
+overflow-x:hidden;
+white-space:nowrap; 
+}
+
+#links {
+  float: left;
+  display:inline-block;
+}
+
+#links1 {
+  float: center;
+  display:inline-block;
+}  
+
+#links2 {
+  float: right;
+  display:inline-block;
+} 
+
+
 /*
 .three {
   display: inline;
