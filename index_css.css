@@ -56,7 +56,6 @@ h3 {
 	border-bottom:1px solid #efece7;
 }
 
-
 img{
     max-width:100%;
     display: block;
@@ -71,14 +70,21 @@ img{
   width: 50%;
 }
 
+
+.above {
+  text-align: center;
+  margin: auto;
+  width: 26%;
+}
+
 #nav{
     border:1px solid #ccc;
     border-width:1px 0;
     text-align:center;
     list-style-type:none;  
     margin:-30px auto;  
-    padding:0;  
-    height:36px;  
+    padding:0px;  
+    height:35px;  
     position: relative;
     background-color:#900;  
     width: 100%
@@ -113,7 +119,7 @@ img{
 
 #nav a:hover {
 	text-decoration:underline;
-  padding-top: 7px; 
+  /*padding-top: 7px; */
   background-color: #FFF;
 	color: #1875b6;
 }
