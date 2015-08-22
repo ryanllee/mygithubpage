@@ -52,7 +52,7 @@ h3 {
 	color: white;
 	margin:10px 0;
 	padding-bottom:15px;
-	font:bold 19px Arial, Helvetica, sans-serif;
+	font:bold 28px Arial, Helvetica, sans-serif;
 	border-bottom:1px solid #efece7;
 }
 
@@ -161,18 +161,17 @@ img{
   text-decoration:underline;
 }
 
-#links {
+
+/*#links {
   float: left;
   margin-left: 100px;
   margin-bottom: 50px;
-  /*margin: 80px;*/
   display:inline-block;
 }
 
 #links1 {
   float: center;
   margin-bottom: 50px;
-  /*margin: 80px;*/
   display:inline-block;
 }  
 
@@ -180,9 +179,28 @@ img{
   float: right;
   margin-right: 100px;
   margin-bottom: 50px;
-  /*margin: 80px;*/
   display:inline-block;
 } 
+*/
+
+.Row
+{
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+    border-spacing: 10px;
+}
+
+.Column
+{
+    display: table-cell;
+}
+
+.Column a:hover{
+  color: #444;
+  text-decoration:underline;
+
+}
 
 .image {
   display: inline;
